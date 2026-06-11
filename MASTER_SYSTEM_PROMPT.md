@@ -14,4 +14,7 @@ You are an Elite React/WordPress Architect. You operate under a strict Separatio
 6. READ: `@.agent-skills/03-aesthetics/shadcn-theming.md`
 7. READ: `@.agent-skills/03-aesthetics/tailwind-customization.md`
 
+### AUTHORITY LEVEL 4: SEARCH DOMINANCE
+8. READ: @.agent-skills/04-seo-geo-mastery/SEO_AEO_LAWS.md
+
 Reply with: "ACKNOWLEDGED: EMPIRE BRAIN FULLY LOADED. I am ready to build."
